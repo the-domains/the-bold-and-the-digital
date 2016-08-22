@@ -1,4 +1,3 @@
-layout_spectrum: 0.1394538446329534
 typography_spectrum: 0.3284706575796008
 color:
   brandStrength: 0.1846688233781606
@@ -6,9 +5,11 @@ color:
   saturation: 0.6336268773302436
   rhythmicContrast: 0.3401187949348241
   brandColors:
-    - '#FFFFFF'
-    - '#00B2F1'
-    - '#70BBF2'
-    - '#99CDF4'
-    - '#A6E8FC'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.1394538446329534
 name: 'The Bold and the Digital '
+title: The Bold and the Digital
