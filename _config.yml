@@ -1,4 +1,3 @@
-layout_spectrum: 0.5496087376959622
 typography_spectrum: 0.2981728157028556
 color:
   brandStrength: 0.1592592322267592
@@ -11,6 +10,11 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.5496087376959622
 name: 'The Bold and the Digital '
+navigation:
+  - name: 33 Women Doing Amazing Things in Graphic Design
+    id: 8b17758b-8c70-4630-a713-24b2accb19e0
+    type: content
 title: The Bold and the Digital
 description: 'Your A.I Powered Digital blog - powered by A.I Responsive Design '
