@@ -1,16 +1,16 @@
-typography_spectrum: 0.3284706575796008
+layout_spectrum: 0.5496087376959622
+typography_spectrum: 0.2981728157028556
 color:
-  brandStrength: 0.1846688233781606
-  lightness: 0.543801296968013
-  saturation: 0.6336268773302436
-  rhythmicContrast: 0.3401187949348241
+  brandStrength: 0.1592592322267592
+  lightness: 0.5521559433545917
+  saturation: 0.3901932917069644
+  rhythmicContrast: 0.1422887220978737
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.1394538446329534
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: 'The Bold and the Digital '
 title: The Bold and the Digital
 description: 'Your A.I Powered Digital blog - powered by A.I Responsive Design '
