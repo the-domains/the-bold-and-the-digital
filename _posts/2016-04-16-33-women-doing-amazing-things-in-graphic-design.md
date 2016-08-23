@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-22T19:57:36.383Z'
+datePublished: '2016-08-23T15:26:39.999Z'
 sourcePath: _posts/2016-04-16-33-women-doing-amazing-things-in-graphic-design.md
 inFeed: true
-isBasedOnUrl: 'https://designschool.canva.com/blog/women-graphic-designers/'
-hasPage: false
+hasPage: true
 keywords:
   - design
   - marta
@@ -20,7 +19,7 @@ author:
   - name: Rebecca Gross
     url: 'https://designschool.canva.com/blog/author/rebecca/'
     avatar: {}
-dateModified: '2016-08-22T19:57:36.000Z'
+dateModified: '2016-08-23T15:26:39.637Z'
 title: 33 Women Doing Amazing Things in Graphic Design
 app_links: []
 publisher:
@@ -39,6 +38,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: 33-women-doing-amazing-things-in-graphic-design/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
